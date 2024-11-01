@@ -1,0 +1,14 @@
+.fotoSenne {
+  width: 400px;
+  height: auto;
+  border-radius: 25px;
+}
+
+.iconSize {
+  font-size: 150px;
+  text-align: center;
+}
+
+.cardWidth {
+  width: auto;
+}
